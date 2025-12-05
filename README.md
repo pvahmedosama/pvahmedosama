@@ -19,25 +19,26 @@
 
 <br/>
 
+<h2>👨‍💻 Professional Summary</h2>
+
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <h2>👨‍💻 Professional Summary</h2>
+    <td width="70%" valign="top">
       <p>
-        I am a <b>Computer Science Student</b> at Menoufia National University (Class of 2026), specializing in <b>Backend Engineering</b> using the <b>.NET Ecosystem</b>.
+        I am a dedicated <b>Computer Science Student</b> at Menoufia National University (Class of 2026), transitioning from a background in <b>Data Analysis</b> to <b>Backend Software Engineering</b>.
       </p>
       <p>
-        With a solid foundation in <b>Data Analysis</b>, I leverage my analytical skills to design <b>efficient database architectures</b> and scalable APIs. I am focused on writing clean, maintainable C# code and mastering enterprise-level system design.
+        My focus is on designing <b>robust Database Architectures</b> and building scalable applications using the <b>.NET Ecosystem</b>. I leverage my analytical skills to create efficient, normalized schemas and write clean C# code.
       </p>
       <ul>
-        <li>🔭 <b>Working on:</b> Advanced Database Schemas (ERD) & .NET Core APIs.</li>
-        <li>🌱 <b>Learning:</b> Clean Architecture, SOLID Principles, Design Patterns.</li>
-        <li>💡 <b>Goal:</b> To build secure and high-performance backend systems.</li>
+        <li>🔭 <b>Focus:</b> Advanced ERD Design, SQL Server, .NET Core APIs.</li>
+        <li>🌱 <b>Learning:</b> Clean Architecture, Design Patterns, Entity Framework.</li>
+        <li>💼 <b>Goal:</b> Contributing to enterprise-level backend systems.</li>
       </ul>
     </td>
-    <td width="35%" valign="center">
+    <td width="30%" valign="center">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="180" alt="Coding Avatar" />
+        <img src="https://cdn-icons-png.flaticon.com/512/2083/2083213.png" width="120" alt="Backend Icon" />
       </div>
     </td>
   </tr>
@@ -49,16 +50,16 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center"><b>Languages</b></td>
-    <td width="33%" align="center"><b>Backend & Databases</b></td>
-    <td width="33%" align="center"><b>Tools</b></td>
+    <td align="center" width="33%"><b>Languages</b></td>
+    <td align="center" width="33%"><b>Backend & Database</b></td>
+    <td align="center" width="33%"><b>Tools</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs,python,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cs,python,cpp&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=dotnet,mysql,mongodb,sqlite&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=dotnet,mysql,mongodb,sql&theme=dark" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
@@ -69,34 +70,26 @@
 <br/>
 
 <h2>🎓 Credentials</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏛️ Education</h3>
-      <p>
-        <b>B.Sc. Computer Science</b><br>
-        <i>Menoufia National University</i><br>
-        Expected Graduation: 2026
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📜 Key Certifications</h3>
-      <ul>
-        <li><b>Intro to MongoDB</b> - <i>ITI</i> (Nov 2025)</li>
-        <li><b>AI Fundamentals</b> - <i>DataCamp</i> (Nov 2025)</li>
-        <li><b>Intro to Python</b> - <i>DataCamp</i> (Aug 2025)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<ul>
+  <li><b>Introduction to MongoDB</b> - <i>Information Technology Institute (ITI)</i> (Nov 2025)</li>
+  <li><b>AI Fundamentals</b> - <i>DataCamp</i> (Nov 2025)</li>
+  <li><b>Introduction to Python</b> - <i>DataCamp</i> (Aug 2025)</li>
+  <li><b>The Complete HTML Course</b> - <i>Udemy</i> (Oct 2025)</li>
+</ul>
 
 <br/>
 
 <h2>📈 GitHub Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvahmedosama&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br/>
