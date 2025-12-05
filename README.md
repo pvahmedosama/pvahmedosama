@@ -45,28 +45,33 @@
 
 <br/>
 
-<h3>🛠️ Technologies & Tools</h3>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <table width="100%">
   <tr>
     <td align="center" width="33%"><b>Languages</b></td>
-    <td align="center" width="33%"><b>Backend & Database</b></td>
-    <td align="center" width="33%"><b>Data & Tools</b></td>
+    <td align="center" width="33%"><b>Backend & Data</b></td>
+    <td align="center" width="33%"><b>DevOps & IDEs</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <td align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,python&theme=dark" />
+      </a>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <td align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dotnet,sqlserver,mongodb&theme=dark" />
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" />
+      </a>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <td align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+      </a>
     </td>
   </tr>
 </table>
@@ -93,9 +98,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&count_private=true&hide_border=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&count_private=true&hide_border=true&bg_color=0,000000,000000" height="150" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&hide_border=true&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&hide_border=true&bg_color=0,000000,000000" height="150" alt="Top Languages" />
 </div>
 
 <br/>
