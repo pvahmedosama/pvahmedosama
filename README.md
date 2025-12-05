@@ -52,12 +52,5 @@ I enjoy transforming complex requirements into well-structured database schemas 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&theme=radical&count_private=true" alt="Ahmed's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvahmedosama&theme=radical" alt="GitHub Streak" />
 </div>
