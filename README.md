@@ -18,67 +18,76 @@
 
 <br/>
 
+<!-- ABOUT ME SECTION -->
 <table>
   <tr>
-    <td width="60%" valign="center">
+    <td width="60%" valign="top">
+
       <h3>🚀 About Me</h3>
-      <p>
-        I'm a <b>Computer Science student</b> specializing in backend development using the <b>.NET ecosystem</b>.  
-        I focus on building scalable systems, designing structured databases, and writing clean, maintainable C# code.
-      </p>
 
-      <p>
-        I’m interested in <b>system design, API architecture, and data modeling</b>.  
-        I approach backend engineering with strong attention to data integrity, performance, and reliability.
-      </p>
+      I'm a <b>Computer Science student</b> specializing in backend development using the <b>.NET ecosystem</b>.  
+      I focus on building scalable systems, designing structured databases, and writing clean, maintainable C# code.
 
-      <p>
-        <b>What I Work On:</b><br/>
-        🔹 Designing normalized ERD structures & database schemas<br/>
-        🔹 Implementing REST APIs using .NET Core<br/>
-        🔹 Writing modular, scalable C# backend services<br/>
-        🔹 Applying data-driven thinking in architecture decisions
-      </p>
+      <br/><br/>
+
+      I’m interested in <b>system design, API architecture, and data modeling</b>.  
+      I approach backend engineering with strong attention to data integrity, performance, and reliability.
+
+      <br/><br/>
+
+      <b>What I Work On:</b>
+      <ul>
+        <li>Designing normalized ERD structures & database schemas</li>
+        <li>Implementing REST APIs using .NET Core</li>
+        <li>Writing modular, scalable C# backend services</li>
+        <li>Applying data-driven thinking in architecture decisions</li>
+      </ul>
+
     </td>
 
-    <td width="40%" valign="center">
-      <div align="center">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
-      </div>
+    <td width="40%" valign="center" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
     </td>
   </tr>
 </table>
 
 <br/>
 
+<!-- SKILLS SECTION -->
 <div align="center">
   <h3>🛠️ Skills & Tools</h3>
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <!-- Data Analysis Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <!-- Development Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 
 </div>
 
 <br/>
 
+<!-- TECH FOCUS SECTION -->
 <div align="center">
   <h3>🎯 Tech Focus</h3>
 </div>
@@ -87,11 +96,12 @@
   <li><b>Backend Architecture:</b> modular services, clean code principles, layered structure.</li>
   <li><b>Database Engineering:</b> normalization, indexing, schema planning, performance tuning.</li>
   <li><b>API Engineering:</b> REST API design, validation, versioning, request pipeline.</li>
-  <li><b>System Thinking:</b> scalability, reliability, and structured data flow.</li>
+  <li><b>System Thinking:</b> scalability, reliability, structured data flow.</li>
 </ul>
 
 <br/>
 
+<!-- LEARNING SECTION -->
 <div align="center">
   <h3>📚 Currently Learning & Goals</h3>
 </div>
@@ -106,7 +116,9 @@
 
 <br/>
 
+<!-- CERTIFICATIONS -->
 <h3>📜 Certifications</h3>
+
 <ul>
   <li><b>Introduction to MongoDB</b> — ITI</li>
   <li><b>AI Fundamentals</b> — DataCamp</li>
