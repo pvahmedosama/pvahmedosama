@@ -90,3 +90,12 @@ My technical foundation is built on a strong understanding of **Database Archite
 ## 📈 Activity & Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Committed to building high-quality software."</i>
+</div>
