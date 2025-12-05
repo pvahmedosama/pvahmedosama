@@ -18,42 +18,36 @@
 
 <br/>
 
-<!-- ABOUT ME SECTION -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
+---
 
-      <h3>🚀 About Me</h3>
+## 🚀 About Me
 
-      I'm a <b>Computer Science student</b> specializing in backend development using the <b>.NET ecosystem</b>.  
-      I focus on building scalable systems, designing structured databases, and writing clean, maintainable C# code.
-
-      <br/><br/>
-
-      I’m interested in <b>system design, API architecture, and data modeling</b>.  
-      I approach backend engineering with strong attention to data integrity, performance, and reliability.
-
-      <br/><br/>
-
-      <b>What I Work On:</b>
-      <ul>
-        <li>Designing normalized ERD structures & database schemas</li>
-        <li>Implementing REST APIs using .NET Core</li>
-        <li>Writing modular, scalable C# backend services</li>
-        <li>Applying data-driven thinking in architecture decisions</li>
-      </ul>
-
-    </td>
-
-    <td width="40%" valign="center" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+I'm a <b>Computer Science student</b> specializing in backend development using the <b>.NET ecosystem</b>.  
+I focus on building scalable systems, designing structured databases, and writing clean, maintainable C# code.
 
 <br/>
 
-<!-- SKILLS SECTION -->
+I’m interested in <b>system design, API architecture, and data modeling</b>.  
+I approach backend engineering with strong attention to data integrity, performance, and reliability.
+
+<br/>
+
+<b>What I Work On:</b>
+<ul>
+  <li>Designing normalized ERD structures & database schemas</li>
+  <li>Implementing REST APIs using .NET Core</li>
+  <li>Writing modular, scalable C# backend services</li>
+  <li>Applying data-driven thinking in architecture decisions</li>
+</ul>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="55%" />
+</div>
+
+<br/><br/>
+
+---
+
 <div align="center">
   <h3>🛠️ Skills & Tools</h3>
 </div>
@@ -85,9 +79,10 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
-<!-- TECH FOCUS SECTION -->
+---
+
 <div align="center">
   <h3>🎯 Tech Focus</h3>
 </div>
@@ -95,13 +90,14 @@
 <ul>
   <li><b>Backend Architecture:</b> modular services, clean code principles, layered structure.</li>
   <li><b>Database Engineering:</b> normalization, indexing, schema planning, performance tuning.</li>
-  <li><b>API Engineering:</b> REST API design, validation, versioning, request pipeline.</li>
+  <li><b>API Engineering:</b> REST API design, validation, versioning, request pipelines.</li>
   <li><b>System Thinking:</b> scalability, reliability, structured data flow.</li>
 </ul>
 
 <br/>
 
-<!-- LEARNING SECTION -->
+---
+
 <div align="center">
   <h3>📚 Currently Learning & Goals</h3>
 </div>
@@ -111,13 +107,14 @@
   <li>Improving SQL Server performance: indexing, transactions, execution plans.</li>
   <li>Applying <b>clean architecture</b> to full backend applications.</li>
   <li>Learning containerization basics (Docker) & backend deployment workflow.</li>
-  <li>Building more backend-oriented projects to strengthen system-level experience.</li>
+  <li>Building backend-oriented projects to strengthen real-world experience.</li>
 </ul>
 
 <br/>
 
-<!-- CERTIFICATIONS -->
-<h3>📜 Certifications</h3>
+---
+
+## 📜 Certifications
 
 <ul>
   <li><b>Introduction to MongoDB</b> — ITI</li>
