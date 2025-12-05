@@ -1,80 +1,73 @@
-<div align="center">
+# Portfolio: Software Engineering & Database Architecture
+**Author:** Ahmed Osama
+**Role:** Computer Science Student | Aspiring .NET Full Stack Developer
 
-# Hello, I'm Ahmed Osama 👋
+---
 
-### 🎓 Computer Science Student | 💻 Aspiring .NET Full Stack Developer
+## 1. Professional Profile
+I am a dedicated **Computer Science Student** at **Menoufia National University**, passionately transitioning from a background in Data Analysis to **Backend Engineering**. My focus lies in designing robust **Database Architectures**, writing clean **C#** code, and mastering the **.NET ecosystem**. I combine mathematical logic with software engineering principles to build scalable solutions.
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pvahmedosama&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-osama-b4078b389" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:ahmed4real9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+## 2. Technical Expertise
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Backend & Core** | C#, .NET Core (Learning), OOP, Data Structures, Algorithms |
+| **Database Design** | SQL Server, MongoDB, Entity Relationship Diagrams (ERD), Normalization (1NF-3NF) |
+| **Data & Tools** | Python, Pandas, Jupyter Notebooks, Git, GitHub, VS Code |
 
-</div>
+---
 
-<br/>
+## 3. Architectural Case Study: NHL League System
+**Project Type:** Conceptual Database Design (ERD)
 
-<table>
-  <tr>
-    <td width="60%" valign="center">
-      <h2>🚀 About Me</h2>
-      <p>
-        I'm a Junior <b>Software Engineer</b> passionate about <b>Backend Engineering</b>, <b>Database Architecture</b>, and the <b>.NET Ecosystem</b>. With a strong background in Mathematics and Data Analysis, I enjoy building robust systems that solve real-world problems.
-      </p>
-      <ul>
-        <li>🔭 Currently working on: <b>Complex Database Schemas (ERD) & .NET APIs</b></li>
-        <li>🌱 Currently learning: <b>Entity Framework Core, Design Patterns & Cloud</b></li>
-        <li>👯 Looking to collaborate on: <b>Open Source .NET Projects</b></li>
-        <li>📫 Reach me at: <a href="mailto:ahmed4real9@gmail.com">ahmed4real9@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-705c862d-0849-4720-b74e-0a5682d27464.gif" width="100%" alt="Coding Gif" />
-      </div>
-    </td>
-  </tr>
-</table>
+### The Challenge
+Designing a relational database for the National Hockey League (NHL) required handling complex recursive relationships and strict data integrity rules regarding team compositions and match history.
 
-<br/>
+### Architectural Decisions & Logic
+* **Recursive Captaincy Constraint (1:1):** Modeled the "Captain" logic as a recursive one-to-one relationship on the `Player` entity, ensuring strictly one captain per team.
+* **Weak Entity Handling:** The `Injury_Record` was designed as a Weak Entity dependent on `Player`, ensuring that injury history cannot exist without a parent player record.
+* **Match Logic (Home/Away):** Instead of a single "Game" link, I implemented two distinct relationships (`Hosts` and `Guests`) between `Team` and `Game`. This allows for precise querying of home-ground advantages and venue-specific statistics.
 
-<h2>🛠️ Tech Stack</h2>
+**[PLACEHOLDER: Insert NHL ERD Image Here]**
 
-### Programming Languages
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,html,css&perline=10" />
-  </a>
-</p>
+---
 
-### Backend & Databases
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,mysql,mongodb,sqlite&perline=10" />
-  </a>
-</p>
+## 4. Architectural Case Study: University Registrar System
+**Project Type:** Academic System Schema Design
 
-### Tools & Technologies
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,jupyter&perline=10" />
-  </a>
-</p>
+### The Challenge
+Modeling a university system necessitated handling Many-to-Many relationships with attributes (grades) and complex course prerequisite chains.
 
-<br/>
+### Architectural Decisions & Logic
+* **The "Enrollment" Associative Entity:** To solve the Many-to-Many relationship between `Student` and `Course_Offering`, I introduced an Associative Entity (`Enrolls`) that holds the `Grade` attribute. This adheres to Third Normal Form (3NF).
+* **Recursive Prerequisites:** Modeled course dependencies (`Prerequisites`) as a recursive Many-to-Many relationship on the `Course` entity, allowing for infinite dependency chains (e.g., CS101 -> CS102 -> CS201).
+* **Flexible Offerings:** Decoupled `Course` (static data) from `Course_Offering` (dynamic semester data) to allow the same course to be taught by different instructors in different terms.
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="160" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Top Languages" />
-</div>
+**[PLACEHOLDER: Insert University ERD Image Here]**
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvahmedosama&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+## 5. Software Development Projects
+* **Python Real-Time Chat App:** Developed a GUI-based chat application using Python, implementing socket programming for real-time message transmission and private messaging capabilities.
+* **Nexus IoT Monitor:** Built a multi-threaded TCP/IP monitoring ecosystem for tracking sensor data, demonstrating proficiency in concurrency and network protocols.
+* **Sales Data Analysis:** Conducted Exploratory Data Analysis (EDA) on superstore sales data using Pandas and Matplotlib to uncover profit trends and shipping bottlenecks.
+
+---
+
+## 6. Certified Credentials
+My journey is backed by verified certifications from recognized institutions:
+
+* **Introduction to MongoDB** – *Information Technology Institute (ITI)* (Nov 30, 2025).
+* **AI Fundamentals** – *DataCamp* (Nov 29, 2025).
+* **Introduction to Python** – *DataCamp* (Aug 01, 2025).
+* **The Complete HTML Course** – *Udemy* (Oct 09, 2025).
+
+**[PLACEHOLDER: Insert Certificate Images Here]**
+
+---
+
+## 7. Contact Information
+* **GitHub:** github.com/pvahmedosama
+* **LinkedIn:** linkedin.com/in/ahmed-osama-b4078b389
+* **Email:** ahmed4real9@gmail.com
