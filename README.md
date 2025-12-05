@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Ahmed Osama 👋</h1>
-<h3>Computer Science Student | .NET Backend Developer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ahmed+Osama;Aspiring+.NET+Software+Engineer;Backend+Architecture+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -19,26 +18,26 @@
 
 <br/>
 
-<h2>👨‍💻 Professional Summary</h2>
-
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="60%" valign="center">
+      <h3>🚀 Professional Profile</h3>
       <p>
-        I am a dedicated <b>Computer Science Student</b> at Menoufia National University (Class of 2026), transitioning from a background in <b>Data Analysis</b> to <b>Backend Software Engineering</b>.
+        I am a disciplined <b>Computer Science Undergraduate</b> at <i>Menoufia National University</i> (Class of 2026), specializing in <b>Backend Software Engineering</b>.
       </p>
       <p>
-        My focus is on designing <b>robust Database Architectures</b> and building scalable applications using the <b>.NET Ecosystem</b>. I leverage my analytical skills to create efficient, normalized schemas and write clean C# code.
+        With a robust foundation in <b>Data Analysis</b>, I bridge the gap between raw data and actionable system architecture. I am currently focused on the <b>.NET Ecosystem</b>, designing <b>normalized database schemas</b> and writing highly efficient, scalable C# code for enterprise-level applications.
       </p>
-      <ul>
-        <li>🔭 <b>Focus:</b> Advanced ERD Design, SQL Server, .NET Core APIs.</li>
-        <li>🌱 <b>Learning:</b> Clean Architecture, Design Patterns, Entity Framework.</li>
-        <li>💼 <b>Goal:</b> Contributing to enterprise-level backend systems.</li>
-      </ul>
+      <p>
+        <b>Core Competencies:</b><br/>
+        &nbsp;&nbsp;🔹 Advanced ERD Modeling & System Design<br/>
+        &nbsp;&nbsp;🔹 RESTful API Development (.NET Core)<br/>
+        &nbsp;&nbsp;🔹 Data Integrity & Clean Architecture
+      </p>
     </td>
-    <td width="30%" valign="center">
+    <td width="40%" valign="center">
       <div align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2083/2083213.png" width="120" alt="Backend Icon" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="3D Coding Animation" />
       </div>
     </td>
   </tr>
@@ -46,50 +45,35 @@
 
 <br/>
 
-<h2>🛠️ Technical Arsenal</h2>
+<h3>🛠️ Technologies & Tools</h3>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%"><b>Languages</b></td>
-    <td align="center" width="33%"><b>Backend & Database</b></td>
-    <td align="center" width="33%"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs,python,cpp&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=dotnet,mysql,mongodb,sql&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2>🎓 Credentials</h2>
-<ul>
-  <li><b>Introduction to MongoDB</b> - <i>Information Technology Institute (ITI)</i> (Nov 2025)</li>
-  <li><b>AI Fundamentals</b> - <i>DataCamp</i> (Nov 2025)</li>
-  <li><b>Introduction to Python</b> - <i>DataCamp</i> (Aug 2025)</li>
-  <li><b>The Complete HTML Course</b> - <i>Udemy</i> (Oct 2025)</li>
-</ul>
-
-<br/>
-
-<h2>📈 GitHub Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+
+| **Core & Backend** | **Data & Analytics** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
+
 </div>
 
 <br/>
 
+<h3>📜 Verified Certifications</h3>
+<ul>
+  <li><b>Introduction to MongoDB</b> | <i>Information Technology Institute (ITI)</i></li>
+  <li><b>AI Fundamentals</b> | <i>DataCamp</i></li>
+  <li><b>Introduction to Python</b> | <i>DataCamp</i></li>
+</ul>
+
+<br/>
+
+<h3>📈 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvahmedosama&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&hide_border=true&bg_color=00000000" height="160" alt="Top Languages" />
 </div>
 
 <br/>
