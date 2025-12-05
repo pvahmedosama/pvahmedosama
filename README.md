@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Ahmed%20Osama&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20.NET%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Ahmed Osama Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ahmed%20Osama&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20.NET%20Backend%20Developer&descAlignY=60&descAlign=50" alt="Ahmed Osama Header" width="100%" />
 
 <br/>
 
@@ -20,60 +20,48 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 Professional Summary
 
-I am a dedicated **Computer Science Undergraduate** at **Menoufia National University** (Class of 2026), currently forging a path in **Backend Software Engineering**.
+I am a disciplined **Computer Science Student** and aspiring **Backend Software Engineer** specializing in the **.NET Ecosystem**. 
+My technical foundation is built on a strong understanding of **Database Architecture**, **System Design**, and **Object-Oriented Programming**. I combine analytical problem-solving skills with practical engineering principles to build scalable, secure, and efficient backend systems.
 
-### 🔄 The Transition Story
-My journey began in the world of **Data Analysis & Mathematics**, where I honed my skills in Python and statistical logic. However, I realized my true passion lay not just in analyzing data, but in **architecting the systems** that handle it. This drove my transition to the **.NET Ecosystem**, where I now apply my analytical mindset to build robust, scalable backend architectures.
-
-### 🧠 Engineering Philosophy
-I believe that *writing code is easy, but designing systems is hard*. My approach focuses on:
-* **Data Integrity:** Designing normalized databases (3NF) that prevent redundancy.
-* **Scalability:** Writing efficient C# code optimized for performance.
-* **Clean Architecture:** adhering to SOLID principles and maintainable design patterns.
+**Current Focus:**
+* Designing Normalized Database Schemas (3NF).
+* Mastering C# and .NET Core for Enterprise Development.
+* Applying Clean Architecture and Design Patterns.
 
 ---
 
-## 🎓 Education & Verified Credentials
+## 🎓 Education & Credentials
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ Academic Background</h3>
+      <h3>🏛️ Academic Degree</h3>
       <p>
         <b>B.Sc. in Computer Science</b><br/>
-        <i>Menoufia National University (MNU)</i><br/>
-        📅 2022 - 2026 (Expected)
+        <i>Menoufia National University</i><br/>
+        📅 Expected Graduation: 2026
       </p>
       <p>
-        Relevant Coursework:
-        <ul>
-          <li>Data Structures & Algorithms</li>
-          <li>Database Management Systems</li>
-          <li>Object-Oriented Programming (OOP)</li>
-          <li>System Analysis & Design</li>
-        </ul>
+        <b>Key Coursework:</b><br/>
+        Data Structures, Algorithms, DBMS, OOP, System Analysis.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📜 Certifications</h3>
+      <h3>📜 Professional Certifications</h3>
       <ul>
         <li>
-          <b>Introduction to MongoDB</b><br/>
-          <i>Information Technology Institute (ITI)</i> | Nov 2025
+          <b>Introduction to MongoDB</b> - <i>ITI</i> (Nov 2025)
         </li>
         <li>
-          <b>AI Fundamentals</b><br/>
-          <i>DataCamp</i> | Nov 2025
+          <b>AI Fundamentals</b> - <i>DataCamp</i> (Nov 2025)
         </li>
         <li>
-          <b>Introduction to Python</b><br/>
-          <i>DataCamp</i> | Aug 2025
+          <b>Introduction to Python</b> - <i>DataCamp</i> (Aug 2025)
         </li>
         <li>
-          <b>The Complete HTML Course</b><br/>
-          <i>Udemy</i> | Oct 2025
+          <b>The Complete HTML Course</b> - <i>Udemy</i> (Oct 2025)
         </li>
       </ul>
     </td>
@@ -86,12 +74,12 @@ I believe that *writing code is easy, but designing systems is hard*. My approac
 
 <div align="center">
 
-| **Core Engineering** | **Backend & Database** | **Data & Tools** |
+| **Core & Languages** | **Backend & Databases** | **Tools & Version Control** |
 |:---:|:---:|:---:|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | **.NET Core** (Learning) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![OOP](https://img.shields.io/badge/OOP-Concepts-orange?style=for-the-badge) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Algorithms](https://img.shields.io/badge/Algorithms-Data_Structures-blue?style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-| System Design | **ERD Modeling** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | **.NET Core** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Algorithms** | **ERD Modeling** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 </div>
 
@@ -102,12 +90,3 @@ I believe that *writing code is easy, but designing systems is hard*. My approac
 ## 📈 Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"I build systems that value logic over syntax."</i>
-</div>
