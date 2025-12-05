@@ -54,29 +54,38 @@ I approach backend engineering with strong attention to data integrity, performa
 
 <br/>
 
-<div align="center">
+<!-- 3-COLUMN MODERN GRID -->
 
-  <!-- Backend & Databases -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Column 1 -->
+  <div>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br/><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
+
+  <!-- Column 2 -->
+  <div>
+    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/><br/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br/><br/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </div>
+
+  <!-- Column 3 -->
+  <div>
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><br/><br/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/><br/>
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  </div>
+
+</div>
+
+<br/>
+
+<div style="display: flex; justify-content: center; margin-top: 10px; gap: 20px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Data Analysis Tools -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Development Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-
 </div>
 
 <br/><br/>
@@ -92,22 +101,6 @@ I approach backend engineering with strong attention to data integrity, performa
   <li><b>Database Engineering:</b> normalization, indexing, schema planning, performance tuning.</li>
   <li><b>API Engineering:</b> REST API design, validation, versioning, request pipelines.</li>
   <li><b>System Thinking:</b> scalability, reliability, structured data flow.</li>
-</ul>
-
-<br/>
-
----
-
-<div align="center">
-  <h3>📚 Currently Learning & Goals</h3>
-</div>
-
-<ul>
-  <li>Advanced .NET Core concepts (middleware, DI patterns, service lifetime).</li>
-  <li>Improving SQL Server performance: indexing, transactions, execution plans.</li>
-  <li>Applying <b>clean architecture</b> to full backend applications.</li>
-  <li>Learning containerization basics (Docker) & backend deployment workflow.</li>
-  <li>Building backend-oriented projects to strengthen real-world experience.</li>
 </ul>
 
 <br/>
