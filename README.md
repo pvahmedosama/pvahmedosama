@@ -1,56 +1,70 @@
 <div align="center">
 
-# Hello, I'm Ahmed Osama 👋
-
-### Computer Science Student | Aspiring Full Stack .NET Developer | Backend Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Ahmed%20Osama&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20.NET%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Ahmed Osama Header" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=I+build+robust+backend+systems.;Passion+for+Database+Design.;Learning+.NET+Eco-system." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Robust+Backend+Systems;Designing+Scalable+Database+Architectures;Mastering+the+.NET+Ecosystem" alt="Typing SVG" />
 </p>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-linkedin-profile/) &nbsp; [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ahmed4real9@gmail.com)
+<a href="https://www.linkedin.com/in/ahmed-osama-b4078b389" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ahmed4real9@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Professional Profile
 
-I am a driven **Computer Science Student** with a strong focus on becoming a proficient **Full Stack .NET Developer**. My journey began with Python, and I am currently diving deep into the world of **Backend Engineering** and **Database Design**.
+I am a disciplined **Computer Science Student** at *Menoufia National University*, specializing in **Backend Software Engineering**.
 
-I enjoy transforming complex requirements into well-structured database schemas and efficient code. I am always eager to learn new technologies and apply them to build real-world solutions.
+My engineering approach bridges a strong foundation in **Data Analysis & Mathematics** with **System Architecture**. I focus on designing **normalized database schemas** and writing scalable, modular C# code for enterprise-level applications. I am driven by the challenge of transforming complex data requirements into efficient, secure, and reliable backend solutions using the **.NET Ecosystem**.
 
-* 🔭 I’m currently learning: **C#**, **SQL**, and **Database Modeling (ERD)**.
-* 🌱 I’m currently exploring: **Software Architecture Principles** and **Design Patterns**.
-* 👯 I’m looking to collaborate on: **Open-source .NET projects** and **Backend development tasks**.
-* 💬 Ask me about: **Python**, **Data Analysis basics**, and **Conceptual DB Design**.
-* 📫 How to reach me: [ahmed4real9@gmail.com](mailto:ahmed4real9@gmail.com)
+**Current Focus:**
+* Advanced Entity Relationship Modeling (ERD) & SQL Optimization.
+* Clean Architecture Principles & Design Patterns.
+* RESTful API Development with .NET Core.
 
 ---
 
-## 🛠️ Tech Stack
+## Technology Stack
 
-### Programming Languages & Core
+### Languages & Core
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### Databases & Tools
+### Backend & Database Engineering
 <p>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt=".NET Core" src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+### Development Tools & Data
+<p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## Certifications & Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvahmedosama&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvahmedosama&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+### Verified Credentials
+* **Introduction to MongoDB** (Information Technology Institute - ITI)
+* **AI Fundamentals** (DataCamp)
+* **Introduction to Python** (DataCamp)
