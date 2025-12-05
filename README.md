@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ahmed%20Osama&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20.NET%20Backend%20Developer&descAlignY=60&descAlign=50" alt="Ahmed Osama Header" width="100%" />
+<h1>Hi, I'm Ahmed Osama 👋</h1>
+<h3>Computer Science Student | .NET Backend Developer</h3>
 
 <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-osama-b4078b389" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmed4real9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -18,84 +19,84 @@
 
 <br/>
 
----
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h2>👨‍💻 Professional Summary</h2>
+      <p>
+        I am a <b>Computer Science Student</b> at Menoufia National University (Class of 2026), specializing in <b>Backend Engineering</b> using the <b>.NET Ecosystem</b>.
+      </p>
+      <p>
+        With a solid foundation in <b>Data Analysis</b>, I leverage my analytical skills to design <b>efficient database architectures</b> and scalable APIs. I am focused on writing clean, maintainable C# code and mastering enterprise-level system design.
+      </p>
+      <ul>
+        <li>🔭 <b>Working on:</b> Advanced Database Schemas (ERD) & .NET Core APIs.</li>
+        <li>🌱 <b>Learning:</b> Clean Architecture, SOLID Principles, Design Patterns.</li>
+        <li>💡 <b>Goal:</b> To build secure and high-performance backend systems.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="center">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="180" alt="Coding Avatar" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-## 👨‍💻 Professional Summary
+<br/>
 
-I am a disciplined **Computer Science Student** and aspiring **Backend Software Engineer** specializing in the **.NET Ecosystem**. 
-My technical foundation is built on a strong understanding of **Database Architecture**, **System Design**, and **Object-Oriented Programming**. I combine analytical problem-solving skills with practical engineering principles to build scalable, secure, and efficient backend systems.
+<h2>🛠️ Technical Arsenal</h2>
 
-**Current Focus:**
-* Designing Normalized Database Schemas (3NF).
-* Mastering C# and .NET Core for Enterprise Development.
-* Applying Clean Architecture and Design Patterns.
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><b>Languages</b></td>
+    <td width="33%" align="center"><b>Backend & Databases</b></td>
+    <td width="33%" align="center"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs,python,html,css&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dotnet,mysql,mongodb,sqlite&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🎓 Education & Credentials
+<h2>🎓 Credentials</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ Academic Degree</h3>
+      <h3>🏛️ Education</h3>
       <p>
-        <b>B.Sc. in Computer Science</b><br/>
-        <i>Menoufia National University</i><br/>
-        📅 Expected Graduation: 2026
-      </p>
-      <p>
-        <b>Key Coursework:</b><br/>
-        Data Structures, Algorithms, DBMS, OOP, System Analysis.
+        <b>B.Sc. Computer Science</b><br>
+        <i>Menoufia National University</i><br>
+        Expected Graduation: 2026
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📜 Professional Certifications</h3>
+      <h3>📜 Key Certifications</h3>
       <ul>
-        <li>
-          <b>Introduction to MongoDB</b> - <i>ITI</i> (Nov 2025)
-        </li>
-        <li>
-          <b>AI Fundamentals</b> - <i>DataCamp</i> (Nov 2025)
-        </li>
-        <li>
-          <b>Introduction to Python</b> - <i>DataCamp</i> (Aug 2025)
-        </li>
-        <li>
-          <b>The Complete HTML Course</b> - <i>Udemy</i> (Oct 2025)
-        </li>
+        <li><b>Intro to MongoDB</b> - <i>ITI</i> (Nov 2025)</li>
+        <li><b>AI Fundamentals</b> - <i>DataCamp</i> (Nov 2025)</li>
+        <li><b>Intro to Python</b> - <i>DataCamp</i> (Aug 2025)</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Technical Arsenal
-
+<h2>📈 GitHub Activity</h2>
 <div align="center">
-
-| **Core & Languages** | **Backend & Databases** | **Tools & Version Control** |
-|:---:|:---:|:---:|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | **.NET Core** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **Algorithms** | **ERD Modeling** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
 </div>
 
 <br/>
-
----
-
-## 📈 Activity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvahmedosama&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvahmedosama&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"Committed to building high-quality software."</i>
-</div>
