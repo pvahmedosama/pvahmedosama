@@ -21,20 +21,20 @@
 <table>
   <tr>
     <td width="60%" valign="center">
-      <h3>🚀 Professional Profile</h3>
+      <h3>🚀 About Me</h3>
       <p>
-        I am a dedicated <b>Computer Science student</b> at <i>Menoufia National University</i> (Class of 2026), specializing in <b>Backend Software Engineering</b> and the <b>.NET ecosystem</b>.
+        I'm a <b>Computer Science student</b> at <i>Menoufia National University</i>, focusing on backend development within the <b>.NET ecosystem</b>.  
+        I work on building reliable, scalable systems using C#, designing databases with clean structure, and implementing efficient REST APIs.
       </p>
       <p>
-        I focus on building clean, scalable backend systems using <b>C#</b>, designing <b>normalized database schemas</b>, and implementing <b>RESTful APIs</b>.  
-        My background in <b>Data Analysis</b> strengthens my ability to understand system behavior, optimize performance, and structure data effectively.
+        My background in <b>data analysis</b> gives me a strong understanding of how systems behave, how data should be modeled, and how to maintain performance and integrity across an application.
       </p>
       <p>
-        <b>Core Competencies:</b><br/>
-        &nbsp;&nbsp;🔹 ERD Modeling & System Architecture<br/>
-        &nbsp;&nbsp;🔹 Backend Development with .NET Core<br/>
-        &nbsp;&nbsp;🔹 Database Design (SQL Server / MongoDB)<br/>
-        &nbsp;&nbsp;🔹 Clean Code & Data Integrity
+        <b>What I Do:</b><br/>
+        &nbsp;&nbsp;🔹 System & database design (ERD, normalization)<br/>
+        &nbsp;&nbsp;🔹 Backend development with .NET Core<br/>
+        &nbsp;&nbsp;🔹 C# application architecture<br/>
+        &nbsp;&nbsp;🔹 SQL Server / MongoDB data modeling
       </p>
     </td>
     <td width="40%" valign="center">
@@ -48,7 +48,7 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Technologies & Tools</h3>
+  <h3>🛠️ Skills & Tools</h3>
 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -71,10 +71,10 @@
 
 <br/>
 
-<h3>📜 Verified Certifications</h3>
+<h3>📜 Certifications</h3>
 <ul>
-  <li><b>Introduction to MongoDB</b> — <i>Information Technology Institute (ITI)</i></li>
-  <li><b>AI Fundamentals</b> — <i>DataCamp</i></li>
-  <li><b>Introduction to Python</b> — <i>DataCamp</i></li>
-  <li><b>The Complete HTML Course</b> — <i>Udemy</i></li>
+  <li><b>Introduction to MongoDB</b> — ITI</li>
+  <li><b>AI Fundamentals</b> — DataCamp</li>
+  <li><b>Introduction to Python</b> — DataCamp</li>
+  <li><b>The Complete HTML Course</b> — Udemy</li>
 </ul>
